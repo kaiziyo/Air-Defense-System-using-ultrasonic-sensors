@@ -1,2 +1,2 @@
 # Air-Defense-System-using-ultrasonic-sensors
-Air defense system 
+Air defense system: An air defense system is a setup designed to spot and respond to potential threats in the air, such as drones or missiles. It uses sensors—like ultrasonic devices and radar—to scan the surroundings and identify objects that could pose a risk. When something is detected, the system quickly processes the information and takes action, such as aiming tracking mechanisms or launching a countermeasure. The main goal is to combine detection and automatic response, creating a model that shows how air defense works in practice or as a simulation example
